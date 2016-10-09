@@ -63,3 +63,8 @@ while(1):
 tym=time.time()-start_time
 print "time taken = ",str(tym)
 print "you made it!!"
+
+'''
+1. Mention controls for the game.
+
+'''
